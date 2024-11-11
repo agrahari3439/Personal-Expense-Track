@@ -3,7 +3,6 @@ A simple and effective personal expense tracker to help you monitor and manage y
 # Tech-Stack
 # Language: Python (or JavaScript, if it’s web-based)
 # Database: SQLite or simple CSV file for data storage
-# Optional Libraries:
 # For data visualization: matplotlib or seaborn
 # For data handling: pandas
 # For web interface: Flask (if using a Python-based web app)
